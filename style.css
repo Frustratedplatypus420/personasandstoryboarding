@@ -1,0 +1,17 @@
+h1 {
+    background-color: darkblue;
+    text-align: center;
+    margin: 30px;
+    font-size: 60;
+    color: white;
+    font-family: "Arial";
+    height: 100px;
+    text-align: center;
+    padding: 10%;
+  }
+  body {
+  margin: 0px;
+  font-size: xx-large;
+  font-family: "calibri";
+  background-color: lightgrey;
+  }
